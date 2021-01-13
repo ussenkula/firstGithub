@@ -5,7 +5,7 @@
 #endif
 
 #include <tchar.h>
-#include <windows.h>
+#include <windows.h> //I AM NOOOOB
 
 /*  Declare Windows procedure  */
 LRESULT CALLBACK WindowProcedure (HWND, UINT, WPARAM, LPARAM);
